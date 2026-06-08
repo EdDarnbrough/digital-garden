@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digital Garden Home/","tags":["gardenEntry"],"created":"2026-06-03T11:30:17.546+01:00","updated":"2026-06-03T15:34:43.321+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"created":"2026-06-03T11:30:17.546+01:00","updated":"2026-06-03T15:34:43.321+01:00","dg-note-properties":{}}
 ---
 
 Hello and welcome. 

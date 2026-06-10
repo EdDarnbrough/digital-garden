@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/","created":"2026-06-03T11:50:16.793+01:00","updated":"2026-06-03T12:17:08.368+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/digital-gardening/","tags":["gardenEntry"],"created":"2026-06-03T11:50:16.793+01:00","updated":"2026-06-10T09:52:57.605+01:00","dg-note-properties":{}}
 ---
 
 A public space where notes grow, interlink, and are cultivated. Typically, the maturity of a note is shown through a borrowed nomenclature of seedlings through to evergreens. 

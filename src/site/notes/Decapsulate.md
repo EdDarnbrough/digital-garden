@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Decapsulate/","tags":["gardenEntry"],"created":"2026-06-03T11:39:00.295+01:00","updated":"2026-06-03T15:27:22.267+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/decapsulate/","tags":["gardenEntry"],"created":"2026-06-03T11:39:00.295+01:00","updated":"2026-06-08T11:24:11.157+01:00","dg-note-properties":{}}
 ---
 
 A podcast by [[Tris\|Tris]] and [[Robin\|Robin]]

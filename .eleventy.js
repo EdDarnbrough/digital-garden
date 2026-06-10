@@ -57,14 +57,14 @@ function getAnchorAttributes(filePath, linkTitle) {
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
-  if (filePath.includes("#")) {
-    [fileName, header] = filePath.split("#");
+  if (fileName.includes("#")) {
+    [fileName, header] = fileName.split("#");
     headerLinkPath = `#${headerToId(header)}`;
   }
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(filePath)}`;
+  let permalink = `/notes/${slugify(fileName)}`;
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";
@@ -79,12 +79,12 @@ function getAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
-    //if (
-    //  frontMatter.data.tags &&
-    //  frontMatter.data.tags.indexOf("gardenEntry") != -1
-    //) {
-    //  permalink = "/";
-    //}
+    if (
+      frontMatter.data.tags &&
+      frontMatter.data.tags.indexOf("gardenEntry") != -1
+    ) {
+      permalink = "/";
+    }
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
     }

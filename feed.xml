@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://eddarnbrough.github.io/digital-garden/">
+  <title>Digital Garden</title>
+  <link href="https://eddarnbrough.github.io/digital-garden//feed.xml" rel="self"/>
+  <link href="https://eddarnbrough.github.io/digital-garden/"/>
+  <updated>2026-06-30T08:39:24Z</updated>
+  <id>https://eddarnbrough.github.io/digital-garden/</id><entry>
+    <title>Tris</title>
+    <updated>2026-06-10T08:51:05.447Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//tris/</id>
+    <content type="html">&lt;p&gt;Person behind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;No Boilerplate&lt;/a&gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;YouTube Wisdom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/decapsulate/&quot;&gt;Decapsulate&lt;/a&gt; podcast&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/lost-terminal/&quot;&gt;Lost Terminal&lt;/a&gt; podcast&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//tris/"/>
+  </entry><entry>
+    <title>Robin</title>
+    <updated>2026-06-10T08:52:43.348Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//robin/</id>
+    <content type="html">&lt;p&gt;Robin Windslow co-host of &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/decapsulate/&quot;&gt;Decapsulate&lt;/a&gt; and web developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://robinwindslow.uk/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;robinwindslow.uk&lt;/a&gt;&lt;/p&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//robin/"/>
+  </entry><entry>
+    <title>Research culture</title>
+    <updated>2026-06-10T10:36:48.290Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//research-culture/</id>
+    <content type="html">&lt;p&gt;I am lucky to have been part of a movement at Oxford to try and better the research culture that has provided me with a number of unique experiences while trying to speak up for others.&lt;/p&gt;
+&lt;p&gt;Most recently that takes the form of being a UK Research Staff Association representative on the Researcher Development Concordat Strategy Group led by Prof Richard Emes.&lt;/p&gt;
+&lt;p&gt;In a meeting recently I was reminded of the a Taoist principle that the best leader helps in an invisible way such that when the work is done people say they did it themselves. Tao Te Ching (Dao De Jing) Chapter 17 by Lao Tzu.&lt;/p&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//research-culture/"/>
+  </entry><entry>
+    <title>Lost Terminal</title>
+    <updated>2026-06-03T11:17:21.978Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//lost-terminal/</id>
+    <content type="html">&lt;p&gt;I tried this podcast about a lonely satellite because I enjoy listening to &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/tris/&quot;&gt;Tris&lt;/a&gt;&#39; voice.&lt;/p&gt;
+&lt;p&gt;However, I can&#39;t say I was blown away by the pilot/first episode and I am yet to download any more.&lt;/p&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//lost-terminal/"/>
+  </entry><entry>
+    <title>Digital Gardening</title>
+    <updated>2026-06-10T08:52:57.605Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//digital-gardening/</id>
+    <content type="html">&lt;p&gt;A public space where notes grow, interlink, and are cultivated. Typically, the maturity of a note is shown through a borrowed nomenclature of seedlings through to evergreens.&lt;br /&gt;
+The idea (from what I can find) was developed by &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;Maggie Appleton&lt;/a&gt; and you can see a walkthrough of the journey in her &lt;a href=&quot;https://maggieappleton.com/garden-history&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;History &amp;amp; Ethos&lt;/a&gt; page in her garden.&lt;/p&gt;
+&lt;p&gt;I see this as an opportunity not to have to produce a publication schedule or even coherently order the stuff I&#39;m doing as the links rather than chronology does the work of building the garden.&lt;/p&gt;
+&lt;p&gt;Found useful resources from &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;Wanderloots&lt;/a&gt; (including how to set this up) and the discussions in the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/decapsulate/&quot;&gt;Decapsulate&lt;/a&gt; podcast. All obviously helped by the fact I have been using &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;obsidian&lt;/a&gt; for years and love a productivity push.&lt;/p&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//digital-gardening/"/>
+  </entry><entry>
+    <title>Decapsulate</title>
+    <updated>2026-06-08T10:24:11.157Z</updated>
+    <id>https://eddarnbrough.github.io/digital-garden//decapsulate/</id>
+    <content type="html">&lt;p&gt;A podcast by &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/tris/&quot;&gt;Tris&lt;/a&gt; and &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/robin/&quot;&gt;Robin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last I looked there are only 7 episodes and I listened to them all over a couple of days.&lt;/p&gt;
+&lt;p&gt;Reminded me a bit of the early years of &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;Cortex&lt;/a&gt; without the podcasting machine that is &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;Myke Hurley&lt;/a&gt; falling into interviewer mode. Also because of the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;RSI&lt;/a&gt; chat from Tris being reminiscent of &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;CGP Grey&lt;/a&gt;&#39;s troubles.&lt;/p&gt;
+&lt;p&gt;That being said the two key things I took from it are the ideas of &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;1&quot; href=&quot;https://eddarnbrough.github.io/digital-gardening/&quot;&gt;Digital Gardening&lt;/a&gt; and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://eddarnbrough.github.io/404&quot; target=&quot;&quot;&gt;Techno-Feudalism&lt;/a&gt;.&lt;/p&gt;
+</content>
+    <link href="https://eddarnbrough.github.io/digital-garden//decapsulate/"/>
+  </entry></feed>
+

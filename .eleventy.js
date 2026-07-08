@@ -2,6 +2,7 @@ const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
 const matter = require("gray-matter");
+const { HtmlBasePlugin } = import("@11ty/eleventy");
 // Obsidian writes [[Page\|Alias]] in frontmatter, but \| is an invalid YAML
 // escape sequence. This custom engine strips \| before parsing. Shared between
 // Eleventy's own frontmatter parser and the manual matter() call in
@@ -773,7 +774,7 @@ module.exports = function(eleventyConfig) {
 
   userEleventySetup(eleventyConfig);
 
-  const { HtmlBasePlugin } = await import("@11ty/eleventy");
+
   eleventyConfig.addPlugin(HtmlBasePlugin);
 
   return {

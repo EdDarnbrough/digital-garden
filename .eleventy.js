@@ -773,6 +773,9 @@ module.exports = function(eleventyConfig) {
 
   userEleventySetup(eleventyConfig);
 
+  const { HtmlBasePlugin } = await import("@11ty/eleventy");
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   return {
     dir: {
       input: "src/site",
@@ -785,3 +788,6 @@ module.exports = function(eleventyConfig) {
     passthroughFileCopy: true,
   };
 };
+module.exports.config = {
+  pathPrefix: "/digital-garden/"
+}
